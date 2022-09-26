@@ -1,3 +1,7 @@
+<!-- make a photo with preview description and preview alt -->
+<h1>Pretty todo list:</h1>
+<img src="preview.png" alt="Nice TODO">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
